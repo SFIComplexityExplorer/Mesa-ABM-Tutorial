@@ -1,4 +1,4 @@
-# Sugarscape Constant Growback model with Traders
+# Sugarscape Constant Growback Model with Traders
 
 ## Summary
 
